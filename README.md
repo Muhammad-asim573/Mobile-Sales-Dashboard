@@ -20,6 +20,11 @@ The data type was then converted to 'Date' to enable time-series analysis.
 
 directly from the new Date column using Power BI's built-in date functions.
 
+## 📱 Mobile Sales Overview Dashboard
+
+<img width="1047" height="672" alt="mobile sales dashboard" src="https://github.com/user-attachments/assets/6c0a3f58-1ade-4b0d-bd1b-89dcebf5954c" />
+
+
 **Key Insights from the Dashboard**
 
 **1. High-Level Metrics**
@@ -57,10 +62,6 @@ The top three models by sales value are the iPhone SE (₹60M), OnePlus Nord (�
 **Geographic Mapping:** Visual representation of sales distribution across major Indian cities (Bhopal, Lucknow, Hyderabad, etc.).
 
 **Interactive Visuals:** Clickable charts that cross-filter data for deeper analysis into specific brands or payment methods.
-
-## 📱 Mobile Sales Overview Dashboard
-
-<img width="1047" height="672" alt="mobile sales dashboard" src="https://github.com/user-attachments/assets/84989740-bdc7-4e29-b493-834bf413a22d" />
 
 **Author and Contact**
 
